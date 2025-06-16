@@ -1,0 +1,15 @@
+# No source code in this repo
+# Documentation-only repository
+
+*.log
+*.tmp
+*.bak
+.DS_Store
+*.swp
+__pycache__/
+.env
+build/
+dist/
+node_modules/
+.vscode/
+.idea/
