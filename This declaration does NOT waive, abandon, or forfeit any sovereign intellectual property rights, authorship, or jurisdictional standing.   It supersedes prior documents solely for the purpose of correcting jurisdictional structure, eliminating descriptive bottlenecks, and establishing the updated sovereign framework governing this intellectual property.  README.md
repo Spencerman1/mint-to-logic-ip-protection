@@ -1,3 +1,7 @@
+This declaration does NOT waive, abandon, or forfeit any sovereign intellectual property rights, authorship, or jurisdictional standing.  
+It supersedes prior documents solely for the purpose of correcting jurisdictional structure, eliminating descriptive bottlenecks, and establishing the updated sovereign framework governing this intellectual property.  
+
+
 # 🛡️ Mint-to Logic™ — IP Protection & Timestamp Declaration
 
 This repository serves as an official, timestamped declaration of intellectual property protection for the **Mint-to Logic™ protocol**, its substructures, and applied use cases. It documents a timeline of innovation dating back to:
