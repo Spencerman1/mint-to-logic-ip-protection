@@ -8,6 +8,8 @@ For licensing or authorized access inquiries, contact: SpencerSouthern12@gmail.c
 
 This repository uses the SSPS continuity framework. Older vaults may contain earlier protection notices; all rights remain reserved under both the original notices and this unified protection standard.
 
+The notice below is retained for historical continuity only and is superseded by the Unified Proprietary Rights Notice above. All rights remain fully reserved.
+
 The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and all governing logic, is protected under U.S. and international trade secret and copyright frameworks. Certain elements have been publicly disclosed for continuity and copyright purposes, while core governing logic remains confidential and has never been voluntarily disclosed in a manner that constitutes waiver.
 
 By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
